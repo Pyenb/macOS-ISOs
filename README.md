@@ -1,4 +1,4 @@
-# MacOS ISO Download Links
+# macOS ISO Download Links
 
 When creating a macOS VM, using this wonderful [guide](https://i12bretro.github.io/tutorials/0566.html) from [i12bretro](https://www.youtube.com/@i12bretro), I found it difficult to find the download links for the macOS ISOs. So I decided to create all of them myself, using [MIST - macOS Installer Super Tool](https://github.com/ninxsoft/Mist), and sharing them here.
 
