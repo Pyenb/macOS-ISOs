@@ -11,6 +11,9 @@ When I wanted to create a macOS VM, using this wonderful [guide](https://i12bret
 
 ## Download Links 📥
 
+> [!IMPORTANT]
+> Due to Contabo limiting my bandwidth to only 100 Mbit/s because my STORAGE VPS is exceeding their set average bandwidth, I will soon be adding alternative download links. These will include torrents and platforms like Pixeldrain. Contabo did suggest an alternative, but it starts at €40/month with about 1/4 of the storage, so that definitely won't happen.
+
 <details>
   <summary>Mac OS X Lion</summary>
   
