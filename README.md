@@ -149,6 +149,10 @@ You really can't. Other than me telling you that I created them using MIST and h
 <details>
 <summary>Click to expand</summary>
 
+### 2024-09-14
+
+- Reuploaded macOS Sonoma 14.6.1_23G93 due to "[Installation cannot proceed because the installer is damaged](https://github.com/Pyenb/macOS-ISOs/issues/1)"
+
 ### 2024-08-16
 
 - Added macOS Sequoia 15.0_24A5320a_Beta6
