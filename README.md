@@ -12,7 +12,7 @@ When I wanted to create a macOS VM, using this wonderful [guide](https://i12bret
 ## Download Links 📥
 
 > [!IMPORTANT]
-> Due to Contabo limiting my bandwidth to only 100 Mbit/s because my STORAGE VPS is exceeding their set average bandwidth, I will soon be adding alternative Download Links. These will include torrents. Contabo did suggest an alternative, but it starts at €40/month with about 1/4 of the storage, so that definitely won't happen.
+> Due to Contabo limiting my bandwidth to only 100 Mbit/s because my STORAGE VPS is exceeding their set average bandwidth, I’ve added torrents and purchased a Seedbox. Feel free to download and seed them! Contabo did suggest an alternative, but it starts at €40/month with about 1/4 of the storage, so that’s definitely not an option.
 
 <details>
   <summary>Mac OS X Lion</summary>
