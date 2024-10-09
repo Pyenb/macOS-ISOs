@@ -8,6 +8,7 @@ When I wanted to create a macOS VM, using this wonderful [guide](https://i12bret
 - [FAQ](#faq-)
 - [Acknowledgments & Resources](#acknowledgments--resources-)
 - [Changelog](#changelog-)
+- [Legal](#legal-)
 
 ## Download Links 📥
 
@@ -196,3 +197,13 @@ You really can't. Other than me telling you that I created them using MIST and h
 - Added macOS Sonoma 14.6.1_23G93
 
 </details>
+
+## Legal 📜
+
+*This repository is not affiliated with Apple Inc. in any way. Apple, macOS, and all other Apple products are trademarks of Apple Inc., registered in the U.S. and other countries.*
+
+I do not own the rights to any macOS versions listed here, nor do I promote or condone piracy. These ISOs are provided strictly for **educational purposes** and **personal use** only.
+
+By downloading or using these ISOs, you **agree to comply** with Apple's **Terms of Service (TOS)** and any applicable **software license agreements**. It is your responsibility to ensure that your use of macOS complies with all applicable laws, licensing agreements, and Apple's TOS.
+
+**If Apple Inc. or any other involved party has an issue with this repository, please open an [issue](https://github.com/Pyenb/macOS-ISOs/issues) or contact me at `contact[at]pyenb.network`. I will promptly take down this repository, along with any hosted files and torrents, as soon as possible.**
