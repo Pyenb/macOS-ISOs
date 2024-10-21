@@ -131,6 +131,7 @@ This repository aims to provide macOS ISOs for security researchers, developers,
   | Version                            | MD5 Hash                              | Download Link                                                                                |
   |------------------------------------|---------------------------------------|----------------------------------------------------------------------------------------------|
   | macOS Sequoia 15.0_24A5320a_Beta6  | 83156ad3603a24a2952fe947238e0eee      | [Torrent](https://data.pyenb.network/macOS/isos/torrents/macOS%20Sequoia%2015.0_24A5320a_Beta6.iso.torrent) |
+  | macOS Sequoia 15.0.1_24A348        | 88b1b9ae13e51b2a228998e10df787ad      | [Torrent](https://data.pyenb.network/macOS/isos/torrents/macOS%20Sequoia%2015.0.1_24A348.iso.torrent) |
 
 </details>
 
@@ -162,6 +163,10 @@ You can either create the ISO yourself, or open an issue and I will try to creat
 
 <details>
 <summary>Click to expand</summary>
+
+### 2024-10-21
+
+- Added macOS Sequoia 15.0.1_24A348
 
 ### 2024-10-15
 
