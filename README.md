@@ -4,7 +4,7 @@ This repository aims to provide macOS ISOs for security researchers, developers,
 
 *If you are a representative of Apple Inc. or any other involved party, please read the [Legal](#legal-) section below.*
 
-I do not own this is a remade verison, credit to the owner:https://github.com/Pyenb/macOS-ISOs
+I do not own this; it is a remade version. Credit to the owner:https://github.com/Pyenb/macOS-ISOs
 
 ## Table of Contents 📚
 
