@@ -144,7 +144,7 @@ This repository aims to provide macOS ISOs for security researchers, developers,
 > If you don't know what a torrent is, I would advise you to watch [this video](https://www.youtube.com/watch?v=OFswNCU5CKA) by `The Verge`.
 
 But to download the files themselves, you need a torrent client like [qBittorrent](https://www.qbittorrent.org/) to download the ISOs.
-Just remember that after you are done downloading them, you should seed them for a while to help others download them too.
+Just remember that after you are done downloading them, you should seed them for a while to help others download them too :).
 
 ### Who needs these ISOs?
 
