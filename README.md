@@ -227,5 +227,5 @@ I do not own the rights to any macOS versions listed here, nor do I promote or c
 By downloading or using these ISOs, you **agree to comply** with Apple's **Terms of Service (TOS)** and any applicable **software license agreements**. It is your responsibility to ensure that your use of macOS complies with all applicable laws, licensing agreements, and Apple's TOS.
 
 **If Apple Inc. or any other involved party has an issue with this repository, please open an [issue](https://github.com/Pyenb/macOS-ISOs/issues) or contact me at `contact[at]pyenb.network`. I will promptly take down this repository, along with any hosted files and torrents, as soon as possible!**
-<a href="mailto:gamingaxe@hotmail.com">Send Email</a>
-<a href="mailto:gamingaxeofficial@gmail.com">Send Email</a>
+<a href="mailto:gamingaxe@hotmail.com">first</a>
+<a href="mailto:gamingaxe@proton.me">second</a>
