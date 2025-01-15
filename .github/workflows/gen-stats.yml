@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - qbit-stats
+      - main
   workflow_dispatch:
 
 jobs:

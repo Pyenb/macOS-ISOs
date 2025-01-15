@@ -6,11 +6,17 @@ This repository aims to provide macOS ISOs for security researchers, developers,
 
 ## Table of Contents 📚
 
-- [Download Links](#download-links-)
-- [FAQ](#faq-)
-- [Acknowledgments & Resources](#acknowledgments--resources-)
-- [Changelog](#changelog-)
-- [Legal](#legal-)
+- [macOS ISO Download Links](#macos-iso-download-links)
+  - [Table of Contents 📚](#table-of-contents-)
+  - [Download Links 📥](#download-links-)
+      - [Seeding statistics 🌱](#seeding-statistics-)
+  - [FAQ ❓](#faq-)
+    - [How to download the ISOs?](#how-to-download-the-isos)
+    - [Who needs these ISOs?](#who-needs-these-isos)
+    - [I want an ISO that is not listed here, what can I do?](#i-want-an-iso-that-is-not-listed-here-what-can-i-do)
+  - [Acknowledgments \& Resources 🙏](#acknowledgments--resources-)
+  - [Changelog 📅](#changelog-)
+  - [Legal 📜](#legal-)
 
 ## Download Links 📥
 
@@ -141,7 +147,7 @@ This repository aims to provide macOS ISOs for security researchers, developers,
 #### Seeding statistics 🌱
 
 <!--- STATS_START --->
-| Server | Active | Total Upload |
+| Server | Active | Total |
 |--------|--------|--------------|
 | Server1 | Yes | 34.39 TB |
 | Server2 | No | 0.00 B |
@@ -177,48 +183,59 @@ You can either create the ISO yourself, or open an issue and I will try to creat
 <details>
 <summary>Click to expand</summary>
 
-## 2025-01-03
+<!-- omit from toc -->
+### 2025-01-03
 
 - Added macOS Sequoia 15.2_24C101
 
+<!-- omit from toc -->
 ### 2024-12-07
 
 - Added macOS Sequoia 15.2_24C5089C_Beta
 
+<!-- omit from toc -->
 ### 2024-11-17
 
 - Added macOS Sequoia 15.1_24B83
 - Removed macOS Sequoia 15.0_24A5320a_Beta6
 
+<!-- omit from toc -->
 ### 2024-10-29
 
 - Added macOS Ventura 13.7.1_22H221
 
+<!-- omit from toc -->
 ### 2024-10-21
 
 - Added macOS Sequoia 15.0.1_24A348
 
+<!-- omit from toc -->
 ### 2024-10-15
 
 - Removed all direct download links
 
+<!-- omit from toc -->
 ### 2024-10-06
 
 - Added torrent download links for every ISO
 
+<!-- omit from toc -->
 ### 2024-09-25
 
 - Reuploaded macOS Sonoma again. Issue still doesn't seem to be fixed.
 - Updated macOS Sonoma to 14.7
 
+<!-- omit from toc -->
 ### 2024-09-14
 
 - Reuploaded macOS Sonoma 14.6.1_23G93 due to "[Installation cannot proceed because the installer is damaged](https://github.com/Pyenb/macOS-ISOs/issues/1)"
 
+<!-- omit from toc -->
 ### 2024-08-16
 
 - Added macOS Sequoia 15.0_24A5320a_Beta6
 
+<!-- omit from toc -->
 ### 2024-08-07
 
 - Added Mac OS X Lion 10.7.5_11G63
