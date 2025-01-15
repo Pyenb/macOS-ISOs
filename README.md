@@ -147,11 +147,11 @@ This repository aims to provide macOS ISOs for security researchers, developers,
 #### Seeding statistics 🌱
 
 <!--- STATS_START --->
-| Server | Active | Total Upload |
-|--------|--------|--------------|
-| Server1 | Yes | 34.40 TB |
-| Server2 | No | 0.00 B |
-| **Combined** | - | 34.40 TB |
+| Server | Total Upload |
+|--------|--------------|
+| Server1 | 34.40 TB |
+| Server2 | 0.00 B |
+| **Combined** | 34.40 TB |
 <!--- STATS_END --->
 
 ## FAQ ❓
