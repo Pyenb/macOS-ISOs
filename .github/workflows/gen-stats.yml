@@ -1,0 +1,36 @@
+name: Fetch Torrents and Update Stats
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  fetch_torrents:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run script
+      env:
+        QB_USERNAME: ${{ secrets.QB_USERNAME }}
+        QB_PASSWORD: ${{ secrets.QB_PASSWORD }}
+        HTTP_USERNAME: ${{ secrets.HTTP_USERNAME }}
+        HTTP_PASSWORD: ${{ secrets.HTTP_PASSWORD }}
+        QB_URL_1: ${{ secrets.QB_URL_1 }}
+        QB_URL_2: ${{ secrets.QB_URL_2 }}
+      run: |
+        python tools/gen-stats.py

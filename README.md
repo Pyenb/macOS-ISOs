@@ -138,6 +138,12 @@ This repository aims to provide macOS ISOs for security researchers, developers,
 
 </details>
 
+#### Seeding status 🌱
+
+<!--- STATS_START --->
+
+<!--- STATS_END --->
+
 ## FAQ ❓
 
 ### How to download the ISOs?
