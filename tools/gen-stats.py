@@ -31,7 +31,7 @@ def get_uploaded(qb_url, auth_type):
         total_uploaded = sum(torrent["uploaded"] for torrent in response.json() if any(keyword.lower() in torrent["name"].lower() for keyword in ["macOS", "OS X"]))
     except Exception as e:
         active = False
-        print(f"Error accessing {qb_url['url']}: {e}")
+        print(f"Error accessing {qb_url['url']}: {e} | Code: {response.status_code}")
 
     return active, total_uploaded
 
@@ -55,7 +55,7 @@ def update_readme(stats):
 | Server1 | {stats['server1']['active']} | {stats['server1']['total_upload']} |
 | Server2 | {stats['server2']['active']} | {stats['server2']['total_upload']} |
 | **Combined** | - | {stats['combined_total_upload']} |
-    """
+"""
 
     new_readme_content = readme_content.split(start_marker)[0] + start_marker + stats_table + end_marker + readme_content.split(end_marker)[1]
     
