@@ -34,3 +34,13 @@ jobs:
         QB_URL_2: ${{ secrets.QB_URL_2 }}
       run: |
         python tools/gen-stats.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "actions@github.com"
+        git add README.md
+        git diff --cached --quiet || git commit -m "Update stats"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

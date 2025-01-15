@@ -138,7 +138,7 @@ This repository aims to provide macOS ISOs for security researchers, developers,
 
 </details>
 
-#### Seeding status 🌱
+#### Seeding statistics 🌱
 
 <!--- STATS_START --->
 
