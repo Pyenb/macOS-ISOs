@@ -3,7 +3,7 @@ name: Fetch Torrents and Update Stats
 on:
   push:
     branches:
-      - main
+      - qbit-stats
   workflow_dispatch:
 
 jobs:
