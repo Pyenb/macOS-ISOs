@@ -1,5 +1,8 @@
 # macOS ISO Download Links
 
+> [!CAUTION]
+> Hello, as you may have noticed, this repo hasen't been updated in quite some time. This is sadly due to my lack of time and some personal issues. I do still plan on updating this repo again in the future, but I can't give any ETA on when that will be. Thank you for your understanding!
+
 This repository aims to provide macOS ISOs for security researchers, developers, and enthusiasts who want to create a macOS VM, but don't have a macOS installation. The ISOs are unmodified and created using tools like [MIST](https://github.com/ninxsoft/Mist) or by [manually converting](https://gist.github.com/itsmikita/bf9dc06000f149fdde11ab4379ac4165) the macOS installer.
 
 *If you are a representative of Apple Inc. or any other involved party, please read the [Legal](#legal-) section below.*
