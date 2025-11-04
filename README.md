@@ -137,7 +137,7 @@ This repository aims to provide macOS ISOs for security researchers, developers,
   | macOS Sequoia 15.0.1_24A348        | 88b1b9ae13e51b2a228998e10df787ad      | [Torrent](https://data.pyenb.network/macOS/isos/torrents/macOS%20Sequoia%2015.0.1_24A348.iso.torrent) |
   | macOS Sequoia 15.1_24B83           | 3f472c065e0f7179664afc4775f2535f      | [Torrent](https://data.pyenb.network/macOS/isos/torrents/macOS%20Sequoia%2015.1_24B83.iso.torrent) |
   | macOS Sequoia 15.2_24C5089C_Beta   | a5a7c6d6f96765e7c7cfafaa4233129c      | [Torrent](https://data.pyenb.network/macOS/isos/torrents/macOS%20Sequoia%2015.2_24C5089C_Beta.iso.torrent) |
-  | macOS Sequoia 15.2_24C101.iso      | Too lazy, will add tomorrow.          | [Torrent](https://data.pyenb.network/macOS/isos/torrents/macOS%20Sequoia%2015.2_24C101.iso.torrent) |
+  | macOS Sequoia 15.2_24C101.iso      | 0c1c2ab6ac080369bb74825b9a01f608      | [Torrent](https://data.pyenb.network/macOS/isos/torrents/macOS%20Sequoia%2015.2_24C101.iso.torrent) |
 
 </details>
 
