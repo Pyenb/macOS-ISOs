@@ -1,0 +1,30 @@
+
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "redhat.telemetry.enabled": true,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "dev.containers.repositoryConfigurationPaths": [
+        ""
+    ],
+    "workbench.colorTheme": "Mac Classic",
+    "launch": {
+        "configurations": [
+        
+        ]
+    },
+    "workbench.colorCustomizations": {},
+    "salatAnNabi.enabled": false,
+    "terminal.integrated.allowedLinkSchemes": [
+        "file",
+        "http",
+        "https",
+        "mailto",
+        "vscode",
+        "vscode-insiders",
+        ""
+    ],
+    "projectManager.git.baseFolders": [
+        "msm"
+    ]
+}

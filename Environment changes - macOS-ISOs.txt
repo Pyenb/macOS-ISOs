@@ -1,0 +1,15 @@
+# Terminal Environment Changes
+
+## Extension: GitHub.codespaces
+
+- `CODESPACE_VSCODE_FOLDER=/workspaces/macOS-ISOs`
+
+## Extension: vscode.git
+
+Enables the following features: git auth provider
+
+- `GIT_ASKPASS=/vscode/bin/linux-x64/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb/extensions/git/dist/askpass.sh`
+- `VSCODE_GIT_ASKPASS_NODE=/vscode/bin/linux-x64/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb/node`
+- `VSCODE_GIT_ASKPASS_EXTRA_ARGS=`
+- `VSCODE_GIT_ASKPASS_MAIN=/vscode/bin/linux-x64/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb/extensions/git/dist/askpass-main.js`
+- `VSCODE_GIT_IPC_HANDLE=/tmp/vscode-git-967e68bc42.sock`
